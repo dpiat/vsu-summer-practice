@@ -1,2 +1,2 @@
 # vsu-summer-practice
-hello, it's me again
+well, actually, goodbye
